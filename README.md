@@ -1,5 +1,4 @@
 # MyFirstGitHub
-just my first GitHub
 
-# 哇哈哈
-## my first change
+## 新建一个分支看看
+### my second change
